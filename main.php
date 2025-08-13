@@ -12,3 +12,5 @@ echo "School: " . $School . "<br>";
 echo "Course: " . $Course . "<br>";
 echo "Subject: " . $Subject . "<br>";
 echo "Are you Students?: " . $Students . "<br>";
+
+?>
