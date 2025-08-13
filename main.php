@@ -4,10 +4,11 @@ $Age = "20";
 $School = "Global Reciprocal College";
 $Course = "BSIT";
 $Subject = "WebSys";
-$Students = true;
+$Students = "Yes";
 
 echo "Name: " . $Name . "<br>";
 echo "Age: " . $Age . "<br>";
 echo "School: " . $School . "<br>";
 echo "Course: " . $Course . "<br>";
 echo "Subject: " . $Subject . "<br>";
+echo "Are you Students?: " . $Students . "<br>";
